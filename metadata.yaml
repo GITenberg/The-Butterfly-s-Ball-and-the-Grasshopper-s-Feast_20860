@@ -1,0 +1,41 @@
+_repo: The-Butterfly-s-Ball-and-the-Grasshopper-s-Feast_20860
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Welsh, Charles
+    aliases:
+    - McIvor, Ivor Ben
+    - Gael, Shane Na
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '7222'
+    url: http://www.gutenberg.org/2009/agents/7222
+covers:
+- cover_type: archival
+  image_path: 20860-h/images/cover2.png
+creator:
+  author:
+    agent_name: Roscoe, William
+    birthdate: 1753
+    deathdate: 1831
+    gutenberg_agent_id: '25974'
+    url: http://www.gutenberg.org/2009/agents/25974
+description: 'The butterfly''s ball, and the grasshopper''s feast (Originally published:
+  London : J. Harris, 1807) -- The peacock "at home" : a sequel to The butterfly''s
+  ball / written by a lady and illustrated with elegant engravings (Originally published:
+  London : J. Harris, 1808).'
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile poetry'
+title: The Butterfly's Ball and the Grasshopper's Feast
+url: http://www.gutenberg.org/ebooks/20860
